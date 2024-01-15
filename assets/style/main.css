@@ -1,25 +1,51 @@
-body header{
-width: 5000px;
-height: 100px;
-background-color: #4ea0ff;
-background-image: url(../img/pattern.png);
-}
-header div{
-width: 4%;
+body header {
+  width: 5000px;
+  height: 100px;
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png);
 }
 
-h1{
-width: 60%;
-font-size: 50px;
+* {
+  margin: 0;
+
 }
-p span{
-color: #4ea0ff;
+
+header div {
+  width: 4%;
 }
-.title{
-width: 14%;
-font-size: 25px;
+
+h1 {
+  width: 60%;
+  font-size: 50px;
 }
-img{
-background-size: cover;
-height: 50%;
+
+p span {
+  color: #4ea0ff;
+}
+
+.title {
+  width: 14%;
+  font-size: 25px;
+}
+
+.foto img {
+  background-size: cover;
+  height: 630px;
+}
+
+section p span {
+  background-color: #ffff00;
+  color: black;
+}
+
+th {
+  width: 200px;
+  text-align: left;
+  background-color: #4ea0ff;
+  color: white;
+}
+
+.table{
+background-color: #b2e4f2;
+
 }
