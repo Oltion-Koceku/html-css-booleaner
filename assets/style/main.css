@@ -1,0 +1,22 @@
+body header{
+width: 5000px;
+height: 100px;
+margin: 0;
+background-color: #4ea0ff;
+background-image: url(../img/pattern.png);
+}
+header div{
+width: 4%;
+}
+
+h1{
+width: 90%;
+font-size: 70px;
+}
+p span{
+color: #4ea0ff;
+}
+.title{
+width: 14%;
+font-size: 25px;
+}
